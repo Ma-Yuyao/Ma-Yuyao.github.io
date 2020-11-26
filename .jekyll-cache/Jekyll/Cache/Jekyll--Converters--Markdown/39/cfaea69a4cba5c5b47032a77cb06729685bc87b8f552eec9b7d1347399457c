@@ -1,0 +1,28 @@
+I"�<h1 id="lecture-1-introduction">Lecture 1 Introduction</h1>
+
+<h2 id="1-introduction">1. Introduction</h2>
+<ul>
+  <li>Networks of computers are everywhere!
+    <ol>
+      <li>Mobile phone networks – GSM/3G networks, cell towers connect to backbones</li>
+      <li>Corporate networks(企业网络)– LAN, consisting of PC’s, laptops, servers, storage, printing</li>
+      <li>Factory networks – Machines (drills, stamps, robots) communicate over network</li>
+      <li>Campus networks – Like CSSE Dept / Unimelb. Wired/wireless, clients, servers</li>
+      <li>In-car networks – Network of sensors (monitoring engine, breaks, tires etc)</li>
+      <li>Internet of Things (IoT)</li>
+      <li>On board networks in planes and trains</li>
+    </ol>
+  </li>
+  <li>This subject aims:
+    <ol>
+      <li>to cover characteristics of networked/distributed computing systems and applications</li>
+      <li>to present the main concepts and techniques that have been developed to help in the tasks of designing and implementing systems and applications that are based on networks.</li>
+    </ol>
+  </li>
+  <li>Node meaning in DS
+    <ul>
+      <li>the nodes are clients, servers or peers. A peer may sometimes serve as client, sometimes server.</li>
+    </ul>
+  </li>
+</ul>
+:ET
