@@ -12,7 +12,7 @@ github_repo: "https://github.com/Ma-Yuyao/Ma-Yuyao.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一流吃货，热爱生活"
-sidebar-avatar: /img/profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/profilepicture.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
