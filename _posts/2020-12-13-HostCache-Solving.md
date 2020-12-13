@@ -7,7 +7,7 @@ author:     Yuyao 						# 作者
 header-img: img/post-bg-unimelb-blue.png 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - 网络问题解决
+    - 实用Tips
 
 ---
 
