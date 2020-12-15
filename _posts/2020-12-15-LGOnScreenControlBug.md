@@ -18,7 +18,7 @@ tags:								#标签
 
 > 您无法在镜像模式下使用 Onscreen Control。请关闭镜像显示器后再使用。
 
-<img src="https://img-blog.csdnimg.cn/20201215180326189.png" width="50%"/>
+<img src="https://img-blog.csdnimg.cn/20201215180326189.png" width="70%"/>
 
 遇到这个BUG尝试网上搜索但是没有任何相关信息，LG官网的使用手册也没有记录这个情况，跟LG工程师客服咨询后客服建议送到维修站进行检修。然而，我并不认为是硬件问题...大概率是软件问题。自己捯饬后发现解决了该问题。
 
