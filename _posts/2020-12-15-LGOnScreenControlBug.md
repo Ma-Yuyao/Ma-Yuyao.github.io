@@ -1,7 +1,7 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:       	# 标题 
-subtitle:   LG OnScreen Control 镜像显示器BUG #副标题
+title:      LG OnScreen Control 软件提示'镜像显示器' BUG 	# 标题 
+subtitle:   LG OnScreen Control #副标题
 date:       2020-12-15				# 时间
 author:     Yuyao 						# 作者
 header-img: img/post-bg-desk.jpg 	#这篇文章标题背景图片
@@ -18,13 +18,13 @@ tags:								#标签
 
 > 您无法在镜像模式下使用 Onscreen Control。请关闭镜像显示器后再使用。
 
-![](img/OnScrrenControlBug.png)
+![](../_site/img/OnScrrenControlBug.png)
 
 遇到这个BUG尝试网上搜索但是没有任何相关信息，LG官网的使用手册也没有记录这个情况，跟LG工程师客服咨询后客服建议送到维修站进行检修。然而，我并不认为是硬件问题...大概率是软件问题。自己捯饬后发现解决了该问题。
 
 该问题出现的原因是：**使用笔记本电脑外接显示器并选择“复制”模式**。
 
-![](img/ProjectionMode.png)
+![](../_site/img/ProjectionMode.png)
 
 在这个模式下，无法使用 **OnScreen Control** 软件。
 
