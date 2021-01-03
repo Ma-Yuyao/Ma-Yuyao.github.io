@@ -104,3 +104,20 @@ service-worker: true
 #         href: "http://zhengwuyang.com"
 #     }
 # ]
+
+# busuanzi
+busuanzi: true
+
+# Share
+# Reference: https://github.com/overtrue/share.js
+share: true
+
+# MeingJS support for Aplayer
+# reference: https://github.com/metowolf/MetingJS & https://github.com/MoePlayer/APlayer
+metingjs: false
+data-id: 2423410161
+data-server: netease  
+data-type: playlist
+data-fixed: true
+  # data-mini:
+  # data-autoplay:  
