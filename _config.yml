@@ -75,14 +75,14 @@ kramdown:
 # disqus_username: andy_tk
 
 # Gitalk
-# gitalk:
-#   enable: true    #是否开启Gitalk评论
-#   clientID: 12cf4852c3acac78c55b                            #生成的clientID
-#   clientSecret: 7696f2d8427d3bac01826e7d5514488c4d1cc0fc    #生成的clientSecret
-#   repo: yey11.github.io    #仓库名称
-#   owner: yey11    #github用户名
-#   admin: yey11
-#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 79abbe90f9c420e3aa21                            #生成的clientID
+  clientSecret: 2b5837605e11a3dd0ecd81567e341b575b526803    #生成的clientSecret
+  repo: Ma-Yuyao.github.io    #仓库名称
+  owner: Ma-Yuyao    #github用户名
+  admin: Ma-Yuyao
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
