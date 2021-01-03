@@ -4,14 +4,14 @@ Hey, my name is **Yuyao**, a Java back-end programmer, and I am studying for a m
 
 I am a guy who loves life and food :)
 
-<!-- ##### Interests
+##### Interests
 
 * Anime
-* Games
-* Data Science
-* Machine Learning -->
+* Video Games
+* Java Back-end
+* Algorithm
 
-<!-- ##### Links
+##### Links
 
-* [LinkedIn](https://www.linkedin.com/in/ye-andy-yang-7a879988/)
-* [Github](https://github.com/YEY11) -->
+* [LinkedIn](https://www.linkedin.com/in/yuyao-ma-025248201/)
+* [Github](https://github.com/Ma-Yuyao)
