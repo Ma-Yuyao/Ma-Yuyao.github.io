@@ -1,4 +1,4 @@
-> Your time is limited, so don’t waste it living someone else’s life. 
+> Love life :yum:, love delicacies :lollipop:
 
 Hey, my name is **Yuyao**, a Java back-end programmer, and I am studying for a master's degree in Unimelb.
 
