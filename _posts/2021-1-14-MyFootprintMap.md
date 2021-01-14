@@ -10,8 +10,6 @@ tags:								#标签
     - 生活记录
 ---
 
-<!DOCTYPE html>
-
 <html>
 
 	<head>
