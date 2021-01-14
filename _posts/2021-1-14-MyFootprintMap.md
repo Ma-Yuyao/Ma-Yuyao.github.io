@@ -11,7 +11,7 @@ tags:								#标签
 ---
 
 ## TEST
-[我的旅行足迹](./xintrip/index.html)
+[我的旅行足迹](xintrip/index.html)
 <!-- <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link rel="stylesheet" media="all" href="./src/jquery-jvectormap.css">
