@@ -11,54 +11,45 @@ tags:								#标签
 ---
 
 <html>
-
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<title>Resmic - 我的足迹</title>
-		<link rel="stylesheet" media="all" href="./src/jquery-jvectormap.css">
-		<script src="./src/jquery-1.8.2.js"></script>
+		<link rel="stylesheet" media="all" href="src/jquery-jvectormap.css">
+		<script src="src/jquery-1.8.2.js"></script>
 		<style type="text/css" adt="123"></style>
-		<script src="./src/jquery-jvectormap.js"></script>
-		<script src="./src/jquery-mousewheel.js"></script>
-
-		<script src="./src/jvectormap.js"></script>
-
-		<script src="./src/abstract-element.js"></script>
-		<script src="./src/abstract-canvas-element.js"></script>
-		<script src="./src/abstract-shape-element.js"></script>
-
-		<script src="./src/svg-element.js"></script>
-		<script src="./src/svg-group-element.js"></script>
-		<script src="./src/svg-canvas-element.js"></script>
-		<script src="./src/svg-shape-element.js"></script>
-		<script src="./src/svg-path-element.js"></script>
-		<script src="./src/svg-circle-element.js"></script>
-		<script src="./src/svg-image-element.js"></script>
-		<script src="./src/svg-text-element.js"></script>
-
-		<script src="./src/vml-element.js"></script>
-		<script src="./src/vml-group-element.js"></script>
-		<script src="./src/vml-canvas-element.js"></script>
-		<script src="./src/vml-shape-element.js"></script>
-		<script src="./src/vml-path-element.js"></script>
-		<script src="./src/vml-circle-element.js"></script>
-		<script src="./src/vml-image-element.js"></script>
-
-		<script src="./src/map-object.js"></script>
-		<script src="./src/region.js"></script>
-		<script src="./src/marker.js"></script>
-
-		<script src="./src/vector-canvas.js"></script>
-		<script src="./src/simple-scale.js"></script>
-		<script src="./src/ordinal-scale.js"></script>
-		<script src="./src/numeric-scale.js"></script>
-		<script src="./src/color-scale.js"></script>
-		<script src="./src/legend.js"></script>
-		<script src="./src/data-series.js"></script>
-		<script src="./src/proj.js"></script>
-		<script src="./src/map.js"></script>
-
-		<script src="./src/jquery-jvectormap-cn-mill-en.js"></script>
+		<script src="src/jquery-jvectormap.js"></script>
+		<script src="src/jquery-mousewheel.js"></script>
+		<script src="src/jvectormap.js"></script>
+		<script src="src/abstract-element.js"></script>
+		<script src="src/abstract-canvas-element.js"></script>
+		<script src="src/abstract-shape-element.js"></script>
+		<script src="src/svg-element.js"></script>
+		<script src="src/svg-group-element.js"></script>
+		<script src="src/svg-canvas-element.js"></script>
+		<script src="src/svg-shape-element.js"></script>
+		<script src="src/svg-path-element.js"></script>
+		<script src="src/svg-circle-element.js"></script>
+		<script src="src/svg-image-element.js"></script>
+		<script src="src/svg-text-element.js"></script>
+		<script src="src/vml-element.js"></script>
+		<script src="src/vml-group-element.js"></script>
+		<script src="src/vml-canvas-element.js"></script>
+		<script src="src/vml-shape-element.js"></script>
+		<script src="src/vml-path-element.js"></script>
+		<script src="src/vml-circle-element.js"></script>
+		<script src="src/vml-image-element.js"></script>
+		<script src="src/map-object.js"></script>
+		<script src="src/region.js"></script>
+		<script src="src/marker.js"></script>
+		<script src="src/vector-canvas.js"></script>
+		<script src="src/simple-scale.js"></script>
+		<script src="src/ordinal-scale.js"></script>
+		<script src="src/numeric-scale.js"></script>
+		<script src="src/color-scale.js"></script>
+		<script src="src/legend.js"></script>
+		<script src="src/data-series.js"></script>
+		<script src="src/proj.js"></script>
+		<script src="src/map.js"></script>
+		<script src="src/jquery-jvectormap-cn-mill-en.js"></script>
 		<script>
 			$(function() {
 				var markers = [{
@@ -153,9 +144,7 @@ tags:								#标签
 				});
 			})
 		</script>
-
 		<body style="background-color: #A8B2CB;">
-			<!--<div style="margin-top: 30px;font-style:bold;margin-bottom:30px;width: 100%;text-align: center;font-size: 28px;color: #FFFFFF;">我的足迹 - MyFootPrint | Resmic</div>-->
 			<div id="map1" style="margin: auto; height: 500px;">
 			</div>
 		</body>
