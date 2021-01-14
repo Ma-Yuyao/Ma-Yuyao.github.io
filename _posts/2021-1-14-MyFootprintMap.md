@@ -11,8 +11,8 @@ tags:								#标签
 ---
 
 ## TEST
-
-<head>
+[我的旅行足迹](./xintrip/index.html)
+<!-- <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<link rel="stylesheet" media="all" href="./src/jquery-jvectormap.css">
 	<script src="./src/jquery-1.8.2.js"></script>
@@ -148,4 +148,4 @@ tags:								#标签
 	<body style="background-color: #A8B2CB;">
 		<div id="map1" style="margin: auto; height: 500px;">
 		</div>
-	</body>
+	</body> -->
