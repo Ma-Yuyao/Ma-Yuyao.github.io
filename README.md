@@ -1,10 +1,11 @@
+
+
 博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 以及 [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)，感谢二位大神！
  
 更为详细的教程戳这 [《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 或 [wiki](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 
 快速搭建简单、简洁、美观的个人博客~
-
-修改于 2021-2-23，作者：Yuyao-Ma
+![](img/website-capture.png)
 
 >
 ### [查看博客戳这里 👆](https://hellocode.ink/)
@@ -152,4 +153,6 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 网站页脚的访问统计在 `_include\footer.html` 中，每个页面的访问统计在`_include\intro-header.html`中修改，也可以根据个人的不同需要按需修改哦。
 
 
-希望大家喜欢这个主题，也感谢各位开源作者做出的贡献~
+希望大家喜欢这个主题，也感谢各位开源作者做出的贡献~ Hope you all enjoy it!
+
+修改于 2021-2-23，作者：Yuyao-Ma
