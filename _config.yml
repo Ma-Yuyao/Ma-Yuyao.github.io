@@ -114,10 +114,10 @@ service-worker: true
 page-mathjax: false
 
 
-Friends
+# Friends
 friends: [
     {
-        title: "TMaize's Blog'",
+        title: "TMaize博客'",
         href: "https://blog.tmaize.net/"
     }
 ]
