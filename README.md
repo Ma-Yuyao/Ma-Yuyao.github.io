@@ -1,4 +1,7 @@
 
+**修改于 2021-2-23，作者：Ma-Yuyao**
+
+---
 
 博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 以及 [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)，感谢二位大神！
  
@@ -158,6 +161,5 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 某位大佬实现了 任意关键字搜索 功能，可以根据 文章名，Tag名，文章内容 等等搜索，Coooool~ 搜索入口在网站右上角图标。
 
-希望大家喜欢这个主题，也感谢各位开源作者做出的贡献~ Hope you all enjoy it!
 
-修改于 2021-2-23，作者：Yuyao-Ma
+希望大家喜欢这个主题，也感谢各位开源作者做出的贡献~ Hope you all enjoy it!
